@@ -5,14 +5,14 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 0 solved  
-🔥 **Medium:** 0 solved  
+✅ **Easy:** 1 solved  
+🔥 **Medium:** 1 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
 | Problem | Solution File |
 |---------|---------------|
-|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./Blind_75/Medium/128-Longest_Consecutive_Sequence.cpp)|
+|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./Blind%2075/Medium/128-Longest_Consecutive_Sequence.cpp)|
 | [Two Sum](https://leetcode.com/problems/two-sum) | [C++](./Easy/1-Two-Sum.cpp) |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](./Easy/20-Valid-Parentheses.py) |
 
