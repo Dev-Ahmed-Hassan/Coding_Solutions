@@ -12,7 +12,7 @@ This repo will have my solutions to leetcode problems.
 ### **Solutions List**  
 | Problem | Solution File |
 |---------|---------------|
-|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./Blind75/Easy/128-Longest_Consecutive_Sequence.cpp)|
+|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](Blind 75/Medium/128-Longest_Consecutive_Sequence.cpp)|
 | [Two Sum](https://leetcode.com/problems/two-sum) | [C++](./Easy/1-Two-Sum.cpp) |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](./Easy/20-Valid-Parentheses.py) |
 
