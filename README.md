@@ -17,6 +17,7 @@ This repo will have my solutions to leetcode problems.
 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [C++](./General/7-Reverse_Integers.cpp) |  
 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [C++](./General/1009-Complement_of_Base_10_Integer.cpp) | 
 | [Uniique Number of Occurences](https://leetcode.com/problems/unique-number-of-occurrences) | [C++](./General/1207-Unique_Number_of_Occurrences.cpp) | 
+| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./General/287-Find_the_Duplicate_Number.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
