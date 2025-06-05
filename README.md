@@ -15,7 +15,8 @@ This repo will have my solutions to leetcode problems.
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./Blind%2075/Medium/128-Longest_Consecutive_Sequence.cpp)|
 | [Two Sum](https://leetcode.com/problems/two-sum) | [C++](./Blind%2075/Easy/1-Two_Sum.cpp) |
 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [C++](./General/7-Reverse_Integers.cpp) |  
-| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [C++](./General/1009-Complement_of_Base_10_Integer.cpp) |  
+| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [C++](./General/1009-Complement_of_Base_10_Integer.cpp) | 
+| [Uniique Number of Occurences](https://leetcode.com/problems/unique-number-of-occurrences) | [C++](./General/1207-Unique_Number_of_Occurrences.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
