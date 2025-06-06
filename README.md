@@ -5,7 +5,7 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 3 solved  
+✅ **Easy:** 4 solved  
 🔥 **Medium:** 4 solved  
 💀 **Hard:** 0 solved  
 
@@ -19,6 +19,7 @@ This repo will have my solutions to leetcode problems.
 | [Uniique Number of Occurences](https://leetcode.com/problems/unique-number-of-occurrences) | [C++](./General/1207-Unique_Number_of_Occurrences.cpp) | 
 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | [C++](./General/287-Find_the_Duplicate_Number.cpp) | 
 | [Find all Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [C++](./General/442-Find_All_Duplicates_in_an_Array.cpp) | 
+| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [C++](./General/349-Intersection_of_Two_Arrays.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
