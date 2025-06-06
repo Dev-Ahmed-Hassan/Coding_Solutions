@@ -6,7 +6,7 @@ This repo will have my solutions to leetcode problems.
 
 ### **Progress**  
 ✅ **Easy:** 5 solved  
-🔥 **Medium:** 4 solved  
+🔥 **Medium:** 5 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -21,6 +21,7 @@ This repo will have my solutions to leetcode problems.
 | [Find all Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [C++](./General/442-Find_All_Duplicates_in_an_Array.cpp) | 
 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [C++](./General/349-Intersection_of_Two_Arrays.cpp) | 
 | [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array) | [C++](./General/2815-Max_Pair_Sum_in_an_Array.cpp) | 
+| [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | [C++](./General/1877-Minimize_Maximum_Pair_Sum_in_Array.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
