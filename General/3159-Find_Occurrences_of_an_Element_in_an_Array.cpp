@@ -1,5 +1,5 @@
 // This was a 5 minute question.
-// 
+// I tried to solve it with Binary Search... but didn't realize that we can't sort the array as it would disturb the indexes.
 // 
 class Solution {
 public:
