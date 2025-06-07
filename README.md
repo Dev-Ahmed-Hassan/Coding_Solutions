@@ -6,7 +6,7 @@ This repo will have my solutions to leetcode problems.
 
 ### **Progress**  
 ✅ **Easy:** 5 solved  
-🔥 **Medium:** 7 solved  
+🔥 **Medium:** 8 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
