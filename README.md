@@ -6,7 +6,7 @@ This repo will have my solutions to leetcode problems.
 
 ### **Progress**  
 ✅ **Easy:** 5 solved  
-🔥 **Medium:** 6 solved  
+🔥 **Medium:** 7 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -23,6 +23,7 @@ This repo will have my solutions to leetcode problems.
 | [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array) | [C++](./General/2815-Max_Pair_Sum_in_an_Array.cpp) | 
 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | [C++](./General/1877-Minimize_Maximum_Pair_Sum_in_Array.cpp) | 
 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](./General/34-Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) | 
+| [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array) | [C++](./General/3159-Find_Occurrences_of_an_Element_in_an_Array.cpp) |
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
