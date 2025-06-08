@@ -18,7 +18,7 @@ public:
 
         
         
-        int ptr1=0, ptr2 =0, hsum = 0;
+        int  hsum = 0;
 
         
         for(int i = 0; i<nums.size(); i++)
