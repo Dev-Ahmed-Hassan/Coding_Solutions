@@ -34,7 +34,7 @@ This repo will have my solutions to leetcode problems.
 
 # Other Solutions
 
-### **Questions Count = 0**
+### **Questions Count = 1**
 
 ### **Solutions List**  
 | Problem | Solution File | Site Name |
