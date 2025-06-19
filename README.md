@@ -40,6 +40,7 @@ This repo will have my solutions to leetcode problems.
 | Problem | Solution File | Site Name |
 |---------|---------------|-----------|
 |AYO|That's|Crazy|
+|[Second largest element in the array](https://www.naukri.com/code360/problems/second-largest-element-in-the-array_873375)|[C++](./Others/Second_largest_element_in_the_array.cpp)|Coding Ninjas|
 
 ---
 Made with rage and caffeine ☕  
