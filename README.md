@@ -31,5 +31,15 @@ This repo will have my solutions to leetcode problems.
 - Click on a problem name to go to LeetCode.  
 - Click on the solution file to see my code.  
 
+
+# Other Solutions
+
+### **Questions Count = 0**
+
+### **Solutions List**  
+| Problem | Solution File | Site Name |
+|---------|---------------|-----------|
+|AYO|That's|Crazy|
+
 ---
 Made with rage and caffeine ☕  
