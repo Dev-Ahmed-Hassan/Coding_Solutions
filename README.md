@@ -6,7 +6,7 @@ This repo will have my solutions to leetcode problems.
 
 ### **Progress**  
 ✅ **Easy:** 6 solved  
-🔥 **Medium:** 8 solved  
+🔥 **Medium:** 9 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -26,6 +26,7 @@ This repo will have my solutions to leetcode problems.
 | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array) | [C++](./General/3159-Find_Occurrences_of_an_Element_in_an_Array.cpp) |
 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [C++](./General/852-Peak_Index_in_a_Mountain_Array.cpp) | 
 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [C++](./General/724-Find_Pivot_Index.cpp) | 
+| [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array) | [C++](./General/1985-Find_the_Kth_Largest_Integer_in_the_Array.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
