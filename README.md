@@ -37,7 +37,7 @@ This repo will have my solutions to leetcode problems.
 
 # Other Solutions
 
-### **Questions Count = 2**
+### **Questions Count = 3**
 
 ### **Solutions List**  
 | Problem | Solution File | Site Name |
@@ -45,6 +45,7 @@ This repo will have my solutions to leetcode problems.
 |AYO|That's|Crazy|
 |[Second largest element in the array](https://www.naukri.com/code360/problems/second-largest-element-in-the-array_873375)|[C++](./Others/Second_largest_element_in_the_array.cpp)|Coding Ninjas|
 |Find the pivot element|[C++](./Others/Find_the_pivot_element.cpp)|Babbar DSA Playlist|
+|[Allocate Books](https://www.naukri.com/code360/problems/allocate-books_1090540)|[C++](./Others/Allocate_Books.cpp)|Coding Ninjas|
 
 ---
 Made with rage and caffeine ☕  
