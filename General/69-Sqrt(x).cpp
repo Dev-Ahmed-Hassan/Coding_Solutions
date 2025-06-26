@@ -2,7 +2,26 @@
 
 class Solution {
 public:
-    int mySqrt(int x) {
+    float morePrecision(int ans, int square)
+{
+    float an = ans;
+    float sq = square;
+    float y;
+    for(float i=ans; i<=i+1; i += 0.01 )
+    {
+        if(i*i <= sq)
+        {
+            y=i;
+        }
+        else
+        {
+            break;
+        }
+    }
+    return y;
+}
+
+float mySqrt(int x) {
         if (x==0) return 0;
         if(x==1) return 1;
 
@@ -13,7 +32,7 @@ public:
             if(m == x/m) return m;
             else if(m < x/m && (m+1) > x/(m+1))
             {
-                return m;
+                return morePrecision(m, x);
             }
             else if(m < x/m) 
             {
@@ -28,4 +47,5 @@ public:
         }
         return -1;
     }
+
 };
