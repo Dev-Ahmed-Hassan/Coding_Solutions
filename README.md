@@ -37,7 +37,7 @@ This repo will have my solutions to leetcode problems.
 
 # Other Solutions
 
-### **Questions Count = 4**
+### **Questions Count = 5**
 
 ### **Solutions List**  
 | Problem | Solution File | Site Name |
@@ -47,6 +47,7 @@ This repo will have my solutions to leetcode problems.
 |Find the pivot element|[C++](./Others/Find_the_pivot_element.cpp)|Babbar DSA Playlist|
 |[Allocate Books](https://www.naukri.com/code360/problems/allocate-books_1090540)|[C++](./Others/Allocate_Books.cpp)|Coding Ninjas|
 |[Painter's Partition Problem](https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557)|[C++](./Others/Painter's_Partition_Problem.cpp)|Coding Ninjas|
+|[Aggressive Cows](https://www.naukri.com/code360/problems/aggressive-cows_1082559)|[C++](./Others/Aggressive_Cows.cpp)|Coding Ninjas|
 
 ---
 Made with rage and caffeine ☕  
