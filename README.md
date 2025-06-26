@@ -46,6 +46,7 @@ This repo will have my solutions to leetcode problems.
 |[Second largest element in the array](https://www.naukri.com/code360/problems/second-largest-element-in-the-array_873375)|[C++](./Others/Second_largest_element_in_the_array.cpp)|Coding Ninjas|
 |Find the pivot element|[C++](./Others/Find_the_pivot_element.cpp)|Babbar DSA Playlist|
 |[Allocate Books](https://www.naukri.com/code360/problems/allocate-books_1090540)|[C++](./Others/Allocate_Books.cpp)|Coding Ninjas|
+|[Painter's Partition Problem](https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557)|[C++](./Others/Painter's_Partition_Problem.cpp)|Coding Ninjas|
 
 ---
 Made with rage and caffeine ☕  
