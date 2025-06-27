@@ -48,8 +48,8 @@ int findSawHeight(vector<int> &arr, int wood)
 
 int main()
 {
-    vector<int> abc= {};
-    int target = 7;
+    vector<int> abc= {4,42,40,26,46};
+    int target = 20;
 
     cout << findSawHeight(abc, target);
 }
