@@ -37,7 +37,7 @@ This repo will have my solutions to leetcode problems.
 
 # Other Solutions
 
-### **Questions Count = 6**
+### **Questions Count = 7**
 
 ### **Solutions List**  
 | Problem | Solution File | Site Name |
@@ -49,6 +49,7 @@ This repo will have my solutions to leetcode problems.
 |[Painter's Partition Problem](https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557)|[C++](./Others/Painter's_Partition_Problem.cpp)|Coding Ninjas|
 |[Aggressive Cows](https://www.naukri.com/code360/problems/aggressive-cows_1082559)|[C++](./Others/Aggressive_Cows.cpp)|Coding Ninjas|
 |[Cooking Ninjas](https://www.naukri.com/code360/problems/cooking-ninjas_1164174?)|[C++](./Others/Cooking_Ninjas.cpp)|Coding Ninjas|
+|[EKO](https://www.spoj.com/problems/EKO/)|[C++](./Others/EKO.cpp)|Sphere Online Judge|
 
 ---
 Made with rage and caffeine ☕  
