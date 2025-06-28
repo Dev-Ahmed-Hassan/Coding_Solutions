@@ -37,7 +37,7 @@ This repo will have my solutions to leetcode problems.
 
 # Other Solutions
 
-### **Questions Count = 7**
+### **Questions Count = 8**
 
 ### **Solutions List**  
 | Problem | Solution File | Site Name |
@@ -50,6 +50,7 @@ This repo will have my solutions to leetcode problems.
 |[Aggressive Cows](https://www.naukri.com/code360/problems/aggressive-cows_1082559)|[C++](./Others/Aggressive_Cows.cpp)|Coding Ninjas|
 |[Cooking Ninjas](https://www.naukri.com/code360/problems/cooking-ninjas_1164174?)|[C++](./Others/Cooking_Ninjas.cpp)|Coding Ninjas|
 |[EKO](https://www.spoj.com/problems/EKO/)|[C++](./Others/EKO.cpp)|Sphere Online Judge|
+|[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|[C++](./Others/Beutiful_Triplets.cpp)|Hacker Rank|
 
 ---
 Made with rage and caffeine ☕  
