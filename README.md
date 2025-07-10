@@ -5,7 +5,7 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 10 solved  
+✅ **Easy:** 11 solved  
 🔥 **Medium:** 11 solved  
 💀 **Hard:** 0 solved  
 
@@ -33,6 +33,7 @@ This repo will have my solutions to leetcode problems.
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [C++](./General/88-Merge_Sorted_Array.cpp) | 
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [C++](./General/283-Move_Zeroes.cpp) | 
 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [C++](./General/189-Rotate_Array.cpp) | 
+| [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | [C++](./General/1752-Check_if_Array_Is_Sorted_and_Rotated.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
