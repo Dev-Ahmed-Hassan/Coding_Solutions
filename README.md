@@ -6,7 +6,7 @@ This repo will have my solutions to leetcode problems.
 
 ### **Progress**  
 ✅ **Easy:** 10 solved  
-🔥 **Medium:** 10 solved  
+🔥 **Medium:** 11 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -32,6 +32,7 @@ This repo will have my solutions to leetcode problems.
 | [Reverse String](https://leetcode.com/problems/reverse-string) | [C++](./General/344-Reverse_String.cpp) | 
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [C++](./General/88-Merge_Sorted_Array.cpp) | 
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [C++](./General/283-Move_Zeroes.cpp) | 
+| [Rotate Array](https://leetcode.com/problems/rotate-array) | [C++](./General/189-Rotate_Array.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
