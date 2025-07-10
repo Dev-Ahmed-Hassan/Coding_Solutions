@@ -5,7 +5,7 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 9 solved  
+✅ **Easy:** 10 solved  
 🔥 **Medium:** 10 solved  
 💀 **Hard:** 0 solved  
 
@@ -31,6 +31,7 @@ This repo will have my solutions to leetcode problems.
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [C++](./General/69-Sqrt(x).cpp) | 
 | [Reverse String](https://leetcode.com/problems/reverse-string) | [C++](./General/344-Reverse_String.cpp) | 
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [C++](./General/88-Merge_Sorted_Array.cpp) | 
+| [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [C++](./General/283-Move_Zeroes.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
