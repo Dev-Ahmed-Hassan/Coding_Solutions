@@ -6,7 +6,7 @@ This repo will have my solutions to leetcode problems.
 
 ### **Progress**  
 ✅ **Easy:** 13 solved  
-🔥 **Medium:** 12 solved  
+🔥 **Medium:** 13 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -37,6 +37,7 @@ This repo will have my solutions to leetcode problems.
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [C++](./General/125-Valid_Palindrome.cpp) | 
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [C++](./General/151-Reverse_Words_in_a_String.cpp) | 
 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words) | [C++](./General/1592-Rearrange_Spaces_Between_Words.cpp) | 
+| [Remove All Occurences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [C++](./General/1910-Remove_All_Occurrences_of_a_Substring.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
