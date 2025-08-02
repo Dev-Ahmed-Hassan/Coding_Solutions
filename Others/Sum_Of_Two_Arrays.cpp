@@ -1,4 +1,9 @@
 #include <bits/stdc++.h> 
+#include<iostream>
+#include<vector>
+#include<climits>
+
+using namespace std;
 vector<int> findArraySum(vector<int>&a,int m, vector<int>&b, int n) {
 	int sum = 0;
 	int multiplier = 1;
