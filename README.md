@@ -5,8 +5,8 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 11 solved  
-🔥 **Medium:** 11 solved  
+✅ **Easy:** 13 solved  
+🔥 **Medium:** 13 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -34,6 +34,10 @@ This repo will have my solutions to leetcode problems.
 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [C++](./General/283-Move_Zeroes.cpp) | 
 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [C++](./General/189-Rotate_Array.cpp) | 
 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | [C++](./General/1752-Check_if_Array_Is_Sorted_and_Rotated.cpp) | 
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [C++](./General/125-Valid_Palindrome.cpp) | 
+| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [C++](./General/151-Reverse_Words_in_a_String.cpp) | 
+| [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words) | [C++](./General/1592-Rearrange_Spaces_Between_Words.cpp) | 
+| [Remove All Occurences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [C++](./General/1910-Remove_All_Occurrences_of_a_Substring.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
