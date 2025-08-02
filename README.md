@@ -46,7 +46,7 @@ This repo will have my solutions to leetcode problems.
 
 # Other Solutions
 
-### **Questions Count = 9**
+### **Questions Count = 10**
 
 ### **Solutions List**  
 | Problem | Solution File | Site Name |
@@ -61,6 +61,7 @@ This repo will have my solutions to leetcode problems.
 |[EKO](https://www.spoj.com/problems/EKO/)|[C++](./Others/EKO.cpp)|Sphere Online Judge|
 |[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|[C++](./Others/Beutiful_Triplets.cpp)|Hacker Rank|
 |[Sum Of Two Arrays](https://www.naukri.com/code360/problem-details/sum-of-two-arrays_893186)|[C++](./Others/Sum_Of_Two_Arrays.cpp)|Coding Ninjas|
+|[Print Like A Wave](https://www.naukri.com/code360/problems/print-like-a-wave_893268)|[C++](./Others/Print_Like_A_Wave.cpp)|Coding Ninjas|
 
 ---
 Made with rage and caffeine ☕  
