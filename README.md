@@ -6,7 +6,7 @@ This repo will have my solutions to leetcode problems.
 
 ### **Progress**  
 ✅ **Easy:** 13 solved  
-🔥 **Medium:** 15 solved  
+🔥 **Medium:** 17 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -41,6 +41,7 @@ This repo will have my solutions to leetcode problems.
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [C++](./General/54-Spiral_Matrix.cpp) | 
 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [C++](./General/48-Rotate_Image.cpp) | 
 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [C++](./General/74-Search_a_2D_Matrix.cpp) | 
+| [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [C++](./General/240-Search_a_2D_Matrix_II.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
