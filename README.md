@@ -40,6 +40,7 @@ This repo will have my solutions to leetcode problems.
 | [Remove All Occurences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [C++](./General/1910-Remove_All_Occurrences_of_a_Substring.cpp) | 
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [C++](./General/54-Spiral_Matrix.cpp) | 
 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [C++](./General/48-Rotate_Image.cpp) | 
+| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [C++](./General/74-Search_a_2D_Matrix.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
