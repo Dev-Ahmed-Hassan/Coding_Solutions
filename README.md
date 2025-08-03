@@ -6,7 +6,7 @@ This repo will have my solutions to leetcode problems.
 
 ### **Progress**  
 ✅ **Easy:** 13 solved  
-🔥 **Medium:** 14 solved  
+🔥 **Medium:** 15 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -39,6 +39,7 @@ This repo will have my solutions to leetcode problems.
 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words) | [C++](./General/1592-Rearrange_Spaces_Between_Words.cpp) | 
 | [Remove All Occurences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [C++](./General/1910-Remove_All_Occurrences_of_a_Substring.cpp) | 
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [C++](./General/54-Spiral_Matrix.cpp) | 
+| [Rotate Image](https://leetcode.com/problems/rotate-image) | [C++](./General/48-Rotate_Image.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
