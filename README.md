@@ -5,7 +5,7 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 13 solved  
+✅ **Easy:** 14 solved  
 🔥 **Medium:** 18 solved  
 💀 **Hard:** 0 solved  
 
@@ -43,6 +43,7 @@ This repo will have my solutions to leetcode problems.
 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [C++](./General/74-Search_a_2D_Matrix.cpp) | 
 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [C++](./General/240-Search_a_2D_Matrix_II.cpp) | 
 | [Count Primes](https://leetcode.com/problems/count-primes) | [C++](./General/204-Count_Primes.cpp) | 
+| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [C++](./General/1480-Running_Sum_of_1d_Array.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
