@@ -5,8 +5,8 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 13 solved  
-🔥 **Medium:** 14 solved  
+✅ **Easy:** 22 solved  
+🔥 **Medium:** 18 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -39,6 +39,19 @@ This repo will have my solutions to leetcode problems.
 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words) | [C++](./General/1592-Rearrange_Spaces_Between_Words.cpp) | 
 | [Remove All Occurences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [C++](./General/1910-Remove_All_Occurrences_of_a_Substring.cpp) | 
 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [C++](./General/54-Spiral_Matrix.cpp) | 
+| [Rotate Image](https://leetcode.com/problems/rotate-image) | [C++](./General/48-Rotate_Image.cpp) | 
+| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [C++](./General/74-Search_a_2D_Matrix.cpp) | 
+| [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [C++](./General/240-Search_a_2D_Matrix_II.cpp) | 
+| [Count Primes](https://leetcode.com/problems/count-primes) | [C++](./General/204-Count_Primes.cpp) | 
+| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [C++](./General/1480-Running_Sum_of_1d_Array.cpp) | 
+| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./General/1672-Richest_Customer_Wealth.cpp) | 
+| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | [C++](./General/1732-Find_the_Highest_Altitude.cpp) | 
+| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [C++](./General/1512-Number_of_Good_Pairs.cpp) | 
+| [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [C++](./General/1684-Count_the_Number_of_Consistent_Strings.cpp) | 
+| [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [C++](./General/1365-How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cpp) | 
+| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [C++](./General/412-Fizz_Buzz.cpp) | 
+| [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C++](./General/1662-Check_If_Two_String_Arrays_are_Equivalent.cpp) | 
+| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C++](./General/605-Can_Place_Flowers.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
