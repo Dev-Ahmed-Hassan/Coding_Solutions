@@ -5,7 +5,7 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 17 solved  
+✅ **Easy:** 18 solved  
 🔥 **Medium:** 18 solved  
 💀 **Hard:** 0 solved  
 
@@ -47,6 +47,7 @@ This repo will have my solutions to leetcode problems.
 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./General/1672-Richest_Customer_Wealth.cpp) | 
 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | [C++](./General/1732-Find_the_Highest_Altitude.cpp) | 
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [C++](./General/1512-Number_of_Good_Pairs.cpp) | 
+| [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [C++](./General/1684-Count_the_Number_of_Consistent_Strings.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
