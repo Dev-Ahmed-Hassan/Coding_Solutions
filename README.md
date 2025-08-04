@@ -5,7 +5,7 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 15 solved  
+✅ **Easy:** 16 solved  
 🔥 **Medium:** 18 solved  
 💀 **Hard:** 0 solved  
 
@@ -45,6 +45,7 @@ This repo will have my solutions to leetcode problems.
 | [Count Primes](https://leetcode.com/problems/count-primes) | [C++](./General/204-Count_Primes.cpp) | 
 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [C++](./General/1480-Running_Sum_of_1d_Array.cpp) | 
 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [C++](./General/1672-Richest_Customer_Wealth.cpp) | 
+| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | [C++](./General/1732-Find_the_Highest_Altitude.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
