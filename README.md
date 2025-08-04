@@ -5,7 +5,7 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 19 solved  
+✅ **Easy:** 20 solved  
 🔥 **Medium:** 18 solved  
 💀 **Hard:** 0 solved  
 
@@ -49,6 +49,7 @@ This repo will have my solutions to leetcode problems.
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [C++](./General/1512-Number_of_Good_Pairs.cpp) | 
 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [C++](./General/1684-Count_the_Number_of_Consistent_Strings.cpp) | 
 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | [C++](./General/1365-How_Many_Numbers_Are_Smaller_Than_the_Current_Number.cpp) | 
+| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [C++](./General/412-Fizz_Buzz.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
