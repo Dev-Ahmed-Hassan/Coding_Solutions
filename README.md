@@ -5,7 +5,7 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 22 solved  
+✅ **Easy:** 23 solved  
 🔥 **Medium:** 18 solved  
 💀 **Hard:** 0 solved  
 
