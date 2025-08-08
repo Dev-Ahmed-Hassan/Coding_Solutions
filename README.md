@@ -52,6 +52,7 @@ This repo will have my solutions to leetcode problems.
 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [C++](./General/412-Fizz_Buzz.cpp) | 
 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C++](./General/1662-Check_If_Two_String_Arrays_are_Equivalent.cpp) | 
 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C++](./General/605-Can_Place_Flowers.cpp) | 
+| [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./General/169-Majority_Element.cpp) | 
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
