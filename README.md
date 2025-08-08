@@ -53,7 +53,8 @@ This repo will have my solutions to leetcode problems.
 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C++](./General/1662-Check_If_Two_String_Arrays_are_Equivalent.cpp) | 
 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C++](./General/605-Can_Place_Flowers.cpp) | 
 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./General/169-Majority_Element.cpp) | 
-| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](./General/215-Kth_Largest_Element_in_an_Array.cpp) | 
+| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](./General/215-Kth_Largest_Element_in_an_Array.cpp) |
+| [Pow(x, n)](https://leetcode.com/problems/powx-n) | [C++](./General/50-Pow(x,%20n).cpp) |
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
