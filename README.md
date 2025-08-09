@@ -5,8 +5,8 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 22 solved  
-🔥 **Medium:** 18 solved  
+✅ **Easy:** 24 solved  
+🔥 **Medium:** 21 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -52,6 +52,12 @@ This repo will have my solutions to leetcode problems.
 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [C++](./General/412-Fizz_Buzz.cpp) | 
 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C++](./General/1662-Check_If_Two_String_Arrays_are_Equivalent.cpp) | 
 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [C++](./General/605-Can_Place_Flowers.cpp) | 
+| [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./General/169-Majority_Element.cpp) | 
+| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](./General/215-Kth_Largest_Element_in_an_Array.cpp) |
+| [Pow(x, n)](https://leetcode.com/problems/powx-n) | [C++](./General/50-Pow(x,%20n).cpp) |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C++](./General/121-Best_Time_to_Buy_and_Sell_Stock.cpp) |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [C++](./General/11-Container_With_Most_Water.cpp) |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C++](./General/238-Product_of_Array_Except_Self.cpp) |
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
