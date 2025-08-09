@@ -5,8 +5,8 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 24 solved  
-🔥 **Medium:** 21 solved  
+✅ **Easy:** 25 solved  
+🔥 **Medium:** 22 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -58,6 +58,8 @@ This repo will have my solutions to leetcode problems.
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C++](./General/121-Best_Time_to_Buy_and_Sell_Stock.cpp) |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [C++](./General/11-Container_With_Most_Water.cpp) |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C++](./General/238-Product_of_Array_Except_Self.cpp) |
+| [Single Number](https://leetcode.com/problems/single-number) | [C++](./General/136-Single_Number.cpp) |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [C++](./General/53-aximum_Subarray.cpp) |
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
