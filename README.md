@@ -5,8 +5,8 @@ This repo will have my solutions to leetcode problems.
 # My LeetCode Solutions 🚀
 
 ### **Progress**  
-✅ **Easy:** 23 solved  
-🔥 **Medium:** 19 solved  
+✅ **Easy:** 24 solved  
+🔥 **Medium:** 21 solved  
 💀 **Hard:** 0 solved  
 
 ### **Solutions List**  
@@ -55,6 +55,9 @@ This repo will have my solutions to leetcode problems.
 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./General/169-Majority_Element.cpp) | 
 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [C++](./General/215-Kth_Largest_Element_in_an_Array.cpp) |
 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [C++](./General/50-Pow(x,%20n).cpp) |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [C++](./General/121-Best_Time_to_Buy_and_Sell_Stock.cpp) |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [C++](./General/11-Container_With_Most_Water.cpp) |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [C++](./General/238-Product_of_Array_Except_Self.cpp) |
 
 ### **How to Use?**  
 - Click on a problem name to go to LeetCode.  
